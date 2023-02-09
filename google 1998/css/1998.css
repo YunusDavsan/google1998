@@ -1,0 +1,25 @@
+
+.bg-e{
+    background-color:#EEEEEE;
+    }
+.bg-7{
+    background-color: #7EE5DA;
+    width:33%;
+    padding: 10px;
+    float: left;
+}
+.bg-70{
+    background-color: #70CCC2;
+    width:30%;
+    padding: 10px;
+    float: left;
+}
+.bg-62{
+    background-color: #62B3AA;
+    width: 32%;
+    padding: 10px;;
+    float: left;
+}
+.kutu {
+    width: 90%;
+}
